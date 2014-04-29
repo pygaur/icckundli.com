@@ -1,0 +1,288 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201307 will be lost/reset.
+# Last config file used to build this data file was /home/icckundl/tmp/awstats/awstats.icckundli.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2007                
+POS_TIME 2691                
+POS_VISITOR 3436                
+POS_DAY 4018                
+POS_DOMAIN 4296                
+POS_LOGIN 4554                
+POS_ROBOT 4709                
+POS_WORMS 5035                
+POS_EMAILSENDER 5166                
+POS_EMAILRECEIVER 5309                
+POS_SESSION 5385                
+POS_SIDER 5542                
+POS_FILETYPES 5848                
+POS_DOWNLOADS 5981                
+POS_OS 6029                
+POS_BROWSER 6133                
+POS_SCREENSIZE 6344                
+POS_UNKNOWNREFERER 6418                
+POS_UNKNOWNREFERERBROWSER 6575                
+POS_ORIGIN 6657                
+POS_SEREFERRALS 6790                
+POS_PAGEREFS 6945                
+POS_SEARCHWORDS 7093                
+POS_KEYWORDS 7245                
+POS_MISC 2355                
+POS_ERRORS 7304                
+POS_CLUSTER 4410                
+POS_SIDER_404 7388                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20130707230622 1456 265023 18458865845880
+FirstTime 20130701001005
+LastTime 20130707070300
+LastUpdate 20130707235834 743 0 743 0 0
+TotalVisits 11                  
+TotalUnique 11                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 14                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 3615 0 1 0
+1 1 5 225963 1 3 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 1 2 0
+5 0 0 0 1 1 3562
+6 5 10 415145 6 11 17468
+7 1 5 226305 6 8 21372
+8 2 10 732745 1 10 0
+9 1 1 3220 0 2 0
+10 0 1 122876 3 6 9155
+11 0 0 0 3 5 7861
+12 0 0 0 4 8 6782
+13 1 1 3562 7 10 15200
+14 0 0 0 2 3 0
+15 0 0 0 3 3 3220
+16 0 0 0 1 2 3220
+17 2 6 229867 1 2 0
+18 2 2 7124 2 2 7124
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 1 1 3562
+22 6 10 303008 2 5 3562
+23 0 0 0 2 2 3562
+END_TIME
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 14
+38.100.21.66 6 8 57256 20130701224846
+85.17.184.42 4 8 229867 20130704065718
+182.68.68.176 3 11 735965 20130706092127
+188.121.41.5 2 2 7124 20130705183522
+208.113.98.155 2 6 229867 20130706170935
+198.71.58.113 1 1 3562 20130702134956
+106.77.252.113 1 5 226305 20130707070300
+96.227.124.38 1 1 3562 20130703002630
+209.85.238.72 1 1 53 20130701001005
+66.249.84.137 1 1 3562 20130704065715
+117.223.226.209 1 5 225963 20130701015839
+106.51.87.182 0 2 245752 
+59.181.118.114 0 1 181716 
+182.71.254.142 0 1 122876 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 7
+20130701 8 14 283272 3
+20130702 1 1 3562 1
+20130703 1 2 185278 1
+20130704 5 9 233429 2
+20130705 2 4 252876 1
+20130706 5 17 965832 2
+20130707 1 6 349181 1
+END_DAY
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+us 12 18 297862
+nl 6 10 236991
+in 5 25 1738577
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+googlebot 29 42218 20130707230622 0
+bot[\s_+:,\.\;\/\\-] 15 49184 20130707083351 0
+no_user_agent 3 10686 20130706070906 0
+[\s_+:,\.\;\/\\-]bot 1 0 20130701002627 0
+crawl 1 3562 20130701070045 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 10
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 7
+/ 14 42744 9 7
+/contact.html 3 9660 1 2
+/services.html 2 8268 0 0
+/static_pages.html 1 3161 0 1
+/google6b3ae17c482ee4d5.html 1 53 1 1
+/career-iccl.html 1 2562 0 0
+/places.html 1 4514 0 0
+END_SIDER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+css 8 76522 0 0
+png 20 1840380 0 0
+html 23 70962 0 0
+js 2 285566 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 7
+macosx 7
+winlong 1
+winxp 12
+win2003 8
+Unknown 1
+linux 11
+win7 13
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 12
+msie6.0 1
+firefox17.0 5
+safari6.0 5
+mozilla 1
+firefox22.0 2
+firefox14.0.1 5
+msie7.0 8
+firefox6.0 1
+wget 1
+chrome27.0.1453.116 13
+chrome24.0.1312.52 1
+safari 10
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20130701001005
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 15 19
+From1 2 2
+From2 1 3
+From3 0 0
+From4 5 29
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 1 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 31 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 7
+/robots.txt 25 -
+/images/ui-icons_454545_256x240.png 1 http://icckundli.com/services.html
+/images/ui-bg_glass_65_ffffff_1x400.png 1 http://icckundli.com/services.html
+/images/ui-bg_flat_75_ffffff_40x100.png 1 http://icckundli.com/services.html
+/images/ui-icons_888888_256x240.png 1 http://icckundli.com/services.html
+/transportation.html 1 -
+/images/ui-bg_glass_75_e6e6e6_1x400.png 1 http://icckundli.com/services.html
+END_SIDER_404
